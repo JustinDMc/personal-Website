@@ -1,10 +1,10 @@
 body {
-    background: rgb(29, 30, 87);
+    background: rgb(57, 57, 58);
 }
 h1 {
-  color: navy;
+  color: red;
   text-align: center;
-  background: lightblue;
+  background: black;
   font-size: xx-large;
 }
 h3 {
